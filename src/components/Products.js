@@ -12,8 +12,6 @@ export default class Products extends Component {
                 <a href={"#" + product._id}>
                   <img src={product.image} alt={product.title}></img>
                   <p>{product.title}</p>
-                  <p>Author : {product.author}</p>
-                  <p>ISBN : {product.isbn}</p>
                 </a>
                 <div className="product-price">
                   {formatCurrency(product.price)}
