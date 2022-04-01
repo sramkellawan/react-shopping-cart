@@ -1,0 +1,117 @@
+{
+    "products":[
+      {
+        "_id": "Book1",
+        "title": "Children of Ash and Elm",
+        "author": "Neil Price",
+        "isbn": "9780465096985",
+        "status": "AV",
+        "image": "/images/1.jpg",
+        "description": "about Book 1",
+        "price": 44.9,
+        "availableSizes": ["XL", "XXL"]
+      },
+      {
+        "_id": "Book2",
+        "title": "The Sword And the Shield",
+        "author": "Peniel E. Joseph ",
+        "isbn": "9781541619616",
+        "status": "AV",
+        "image": "/images/2.jpg",
+        "description": "about Book 2",
+        "price": 23.9,
+        "availableSizes": ["M", "L", "XL"]
+      },
+      {
+        "_id": "Book3",
+        "title": "Morality",
+        "author": "Jonathan Sackse",
+        "isbn": "9781541675315",
+        "status": "AV",
+        "image": "/images/3.jpg",
+        "description": "about Book3",
+        "price": 25.9,
+        "availableSizes": ["S", "M", "L"]
+      },
+      {
+        "_id": "Book4",
+        "title": "Vanguard",
+        "author": "Martha S. Jones",
+        "isbn": "9781541618619",
+        "status": "AV",
+        "image": "/images/4.jpg",
+        "description": "about Book4",
+        "price": 45.9,
+        "availableSizes": ["M", "L", "XL"]
+      },
+      {
+        "_id": "Book5",
+        "title": "The Broken Heart of America",
+        "author": "Walter Johnson",
+        "isbn": "9781541619586",
+        "status": "AV",
+        "image": "/images/5.jpg",
+        "description": "about Book5",
+        "price": 35.9,
+        "availableSizes": ["M", "L", "XL"]
+      },
+      {
+        "_id": "Book6",
+        "title": "The Social Lives of Animals",
+        "author": "Ashley Ward",
+        "isbn": "9781541600836",
+        "status": "NR",
+        "image": "/images/6.jpg",
+        "description": "about Book6",
+        "price": 24.9,
+        "availableSizes": ["S", "M", "L", "XL", "XXL"]
+      },
+
+      {
+        "_id": "Book7",
+        "title": "The Language Game",
+        "author": "Morten H. Christiansen",
+        "isbn": "9781541674981",
+        "status": "NR",
+        "image": "/images/7.jpg",
+        "description": "about Book7",
+        "price": 38.0,
+        "availableSizes": ["S", "M", "L", "XL", "XXL"]
+      },
+
+      {
+        "_id": "Book8",
+        "title": "Oceans of Grain",
+        "author": "Scott Reynolds Nelson",
+        "isbn": "9781541646469",
+        "status": "NR",
+        "image": "/images/8.jpg",
+        "description": "about Book8",
+        "price": 38.0,
+        "availableSizes": ["S", "M", "L", "XL", "XXL"]
+      },
+
+      {
+        "_id": "Book9",
+        "title": "Free Speech",
+        "author": "Jacob Mchangama",
+        "isbn": "9781541600492",
+        "status": "CS",
+        "image": "/images/9.jpg",
+        "description": "about Book9",
+        "price": 44.0,
+        "availableSizes": ["S", "M", "L", "XL", "XXL"]
+      },
+      {
+        "_id": "Book10",
+        "title": "The Tailored Brain",
+        "author": "Emily Willingham",
+        "isbn": "9781541647022",
+        "status": "CS",
+        "image": "/images/10.jpg",
+        "description": "about Book10",
+        "price": 27.5,
+        "availableSizes": ["S", "M", "L", "XL", "XXL"]
+      }
+    ]
+}
